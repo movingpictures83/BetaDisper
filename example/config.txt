@@ -1,0 +1,2 @@
+Prefix plugins/BetaDisper/example/
+Plugin BetaDisper inputfile parameters.txt outputfile none
